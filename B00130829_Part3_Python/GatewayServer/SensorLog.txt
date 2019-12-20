@@ -1,0 +1,9 @@
+<readings><reading><time>Fri Dec 20 16:58:51 2019
+</time><temperature>11</temperature></reading><reading><time>Fri Dec 20 17:00:31 2019
+</time><temperature>45</temperature></reading><reading><time>Fri Dec 20 17:02:11 2019
+</time><temperature>34</temperature></reading><reading><time>Fri Dec 20 17:03:51 2019
+</time><temperature>22</temperature></reading><reading><time>Fri Dec 20 17:05:31 2019
+</time><temperature>25</temperature></reading><reading><time>Fri Dec 20 17:07:11 2019
+</time><temperature>38</temperature></reading><reading><time>Fri Dec 20 17:08:51 2019
+</time><temperature>10</temperature></reading><reading><time>Fri Dec 20 17:10:31 2019
+</time><temperature>30</temperature></reading></readings>
